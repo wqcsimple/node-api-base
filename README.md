@@ -5,6 +5,6 @@ Nodejs Api base
 in package.json
 ```json
   "dependencies": {
-    "node-api-base" : "git@git@github.com:wqcsimple/node-api-base.git"
+    "node-api-base" : "git@github.com:wqcsimple/node-api-base.git"
   }
 ```
