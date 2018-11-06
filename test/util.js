@@ -18,6 +18,8 @@ let obk = {
     age: "whis"
 };
 
-Log.i(obk);
-Log.d(obk);
-Log.i('whis')
+// Log.i(obk);
+// Log.d(obk);
+// Log.i('whis')
+
+Log.i('whis' + 192);
