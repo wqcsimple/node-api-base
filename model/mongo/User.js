@@ -24,7 +24,6 @@ User.detailAttributes = ['name', 'phone', 'address'];
 
 User.processModel = (model, keys) => {
     model = Util.formatModel(model, keys);
-    console.log('4');
     if (model)
     {
         model['hello'] = 'world';
