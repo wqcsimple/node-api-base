@@ -4,7 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "ioredis": "^2.4.0",
     "locutus": "^2.0.10",
     "lodash": "^4.17.19",
